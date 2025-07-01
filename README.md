@@ -1,9 +1,8 @@
-<h1 align="center">Hey! I'm Kenji 👋</h1>
+# Hey! I'm Kenji 👋
 
-<p align="center">
-  🧱 Offchain Architect @ <a href="https://github.com/defi-wonderland" target="_blank">Defi Wonderland</a><br/>
-  🦀 Rust & 🧪 TypeScript enthusiast<br/>
-  🔍 Focused on performance, simplicity & developer experience
-</p>
 
-<p align="center"><em>“Overoptimization is the root of all evil” — also, sometimes kinda fun 😅</em></p>
+🧱 Offchain Architect @ <a href="https://github.com/defi-wonderland" target="_blank">Defi Wonderland</a><br/>
+🦀 Rust & 🧪 TypeScript enthusiast<br/>
+🔍 Focused on performance, simplicity & developer experience
+
+<em>“Overoptimization is the root of all evil” — also, sometimes kinda fun 😅</em>
