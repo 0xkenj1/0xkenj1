@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hey! I'm Kenji 👋</h1>
 
-<!--
-**0xkenj1/0xkenj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🧱 Offchain Architect @ <a href="https://github.com/defi-wonderland" target="_blank">Defi Wonderland</a><br/>
+  🦀 Rust & 🧪 TypeScript enthusiast<br/>
+  🔍 Focused on performance, simplicity & developer experience
+</p>
 
-Here are some ideas to get you started:
+<p align="center"><em>“Overoptimization is the root of all evil” — also, sometimes kinda fun 😅</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤝 Let's connect
+
+<p align="center">
+  <a href="https://x.com/0xkenj1">
+    <img src="https://img.shields.io/badge/-@0xkenj1-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
